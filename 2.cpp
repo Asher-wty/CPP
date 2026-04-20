@@ -49,4 +49,6 @@ int main()
     
 } // end main
 
-//StudybarCommentEnd
+//StudybarCommentEnd、
+//what can i see
+//maybe git is a good practice
