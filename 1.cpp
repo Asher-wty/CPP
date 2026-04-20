@@ -96,7 +96,6 @@ cin>>hour>>minute>>second>>number;
  t2.printTime();
  t1.printTime();
  t3=--t1;
- t3.printTime();
  t4=number+t1;
  t4.printTime();
 }
